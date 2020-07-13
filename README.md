@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project was to create an asynchronous web app that uses a web API and user data to dynamically update the UI. This is project 3 of the updated FEND program at Udacity for 2019.
+The purpose of this project was to create an asynchronous web app that uses a web API and user data to dynamically update the UI. This is the project 3 of the updated FEND program at Udacity for 2019.
 
 ## Instructions
 
